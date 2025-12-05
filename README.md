@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Connect With Me  
-- *Email:* anushka1706palak@gmail.com  
+- *Email:* anushk.17a@gmail.com  
 - *GitHub:* github.com/anushka1706palak  
 
 ---
