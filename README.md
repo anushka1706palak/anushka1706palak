@@ -23,9 +23,10 @@
 ---
 
 ### 📌 Sample / Featured Projects  
-- 🔹 *Digital Clock GUI (Python Tkinter)* — a simple GUI project  
-- 🔹 *DSA practice scripts / small coding projects* — under development  
-- 🔹 More projects coming as I learn and grow…  
+- 💠 *Digital Clock GUI (Python Tkinter)* — a simple GUI project
+- 💠 *Expense tracker (Python)* - "Trackwise"  
+- 💠 *DSA practice scripts / small coding projects* — under development  
+- 💠 More projects coming as I learn and grow…  
 
 ---
 
