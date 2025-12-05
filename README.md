@@ -18,7 +18,7 @@
 ### 🛠 Tech & Skills  
 - *Languages:* Python, C++  
 - *Core Competence:* Data Structures & Algorithms  
-- *Tools:* Git & GitHub, VS Code (or any code editor)  
+- *Tools:* Git & GitHub, VS Code   
 
 ---
 
