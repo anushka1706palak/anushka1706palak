@@ -25,7 +25,7 @@
 ### 📌 Sample / Featured Projects  
 - 💠 *Digital Clock GUI (Python Tkinter)* — a simple GUI project
 - 💠 *Expense tracker (Python)* - "Trackwise"
-- 🔷 *AI Agent project (Python)* - "using json"  
+- 💠 *AI Agent project (Python)* - "using json"  
 - 💠 *DSA practice scripts / small coding projects* — under development  
 - 💠 More projects coming as I learn and grow…  
 
